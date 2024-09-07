@@ -1,0 +1,3 @@
+[submodule "social-login"]
+	path = social-login
+	url = https://github.com/vuong-ng/ghw.git
